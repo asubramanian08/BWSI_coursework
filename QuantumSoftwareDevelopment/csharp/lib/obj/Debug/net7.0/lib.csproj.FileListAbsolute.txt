@@ -1,0 +1,12 @@
+/Users/arjunsubramanian/Programming/BWSI_coursework/QuantumSoftwareDevelopment/csharp/lib/bin/Debug/net7.0/lib.deps.json
+/Users/arjunsubramanian/Programming/BWSI_coursework/QuantumSoftwareDevelopment/csharp/lib/bin/Debug/net7.0/lib.dll
+/Users/arjunsubramanian/Programming/BWSI_coursework/QuantumSoftwareDevelopment/csharp/lib/bin/Debug/net7.0/lib.pdb
+/Users/arjunsubramanian/Programming/BWSI_coursework/QuantumSoftwareDevelopment/csharp/lib/obj/Debug/net7.0/lib.csproj.AssemblyReference.cache
+/Users/arjunsubramanian/Programming/BWSI_coursework/QuantumSoftwareDevelopment/csharp/lib/obj/Debug/net7.0/lib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arjunsubramanian/Programming/BWSI_coursework/QuantumSoftwareDevelopment/csharp/lib/obj/Debug/net7.0/lib.AssemblyInfoInputs.cache
+/Users/arjunsubramanian/Programming/BWSI_coursework/QuantumSoftwareDevelopment/csharp/lib/obj/Debug/net7.0/lib.AssemblyInfo.cs
+/Users/arjunsubramanian/Programming/BWSI_coursework/QuantumSoftwareDevelopment/csharp/lib/obj/Debug/net7.0/lib.csproj.CoreCompileInputs.cache
+/Users/arjunsubramanian/Programming/BWSI_coursework/QuantumSoftwareDevelopment/csharp/lib/obj/Debug/net7.0/lib.dll
+/Users/arjunsubramanian/Programming/BWSI_coursework/QuantumSoftwareDevelopment/csharp/lib/obj/Debug/net7.0/refint/lib.dll
+/Users/arjunsubramanian/Programming/BWSI_coursework/QuantumSoftwareDevelopment/csharp/lib/obj/Debug/net7.0/lib.pdb
+/Users/arjunsubramanian/Programming/BWSI_coursework/QuantumSoftwareDevelopment/csharp/lib/obj/Debug/net7.0/ref/lib.dll
