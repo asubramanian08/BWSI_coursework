@@ -28,20 +28,14 @@ Notes:
 
     The fewer steps, the better
 - Sorting: Arranging a list of items (array) in a particular order
-    - Selection sort: Find the smallest item and swap it to the front until all items are sorted
-    
-        Complexity: O(n^2)
-    - Merge-sort: Split the list in half, sort each half, and merge the two sorted halves
-    
-        Complexity: O(n log n)
+    - Selection sort: Find the smallest item and swap it to the front until all items are sortedex:        Complexity: O(n^2)
+    - Merge-sort: Split the list in half, sort each half, and merge the two sorted halvesex:        Complexity: O(n log n)
 - Big-O notation: Describing the complexity of an algorithm
 
     How much the run time increases as the input size increases
 - Graph: Network of nodes connected with edges of different weights
 - Graph Search: Find the fastest path between two nodes in a graph
-    - Dijkstra's Algorithm: Start at a node and find the next shortest path to a neighbor node
-    
-        Complexity: O(n log n + l)
+    - Dijkstra's Algorithm: Start at a node and find the next shortest path to a neighbor nodeex:        Complexity: O(n log n + l)
 - Brute Force: Trying every possible solution
 - All kinds of python resources [here](https://www.pythonlikeyoumeanit.com)
 
@@ -66,17 +60,11 @@ Notes:
 - String interpolation: Add "$" and include variables inside the string
 
     `Console.WriteLine($"Hello {x}");`
-- Length: `x.Length`
-    
-    This can be used to find the length of a string, an array, ...
-- Trim: `x.Trim()`
-    
-    Removes whitespace from the beginning and end of a string
+- Length: `x.Length`ex:    This can be used to find the length of a string, an array, ...
+- Trim: `x.Trim()`ex:    Removes whitespace from the beginning and end of a string
 
     Can also use `TrimStart()` and `TrimEnd()`
-- Replace: `x.Replace("a", "b")`
-    
-    Replaces all instances of "a" with "b"
+- Replace: `x.Replace("a", "b")`ex:    Replaces all instances of "a" with "b"
 - You can also use `ToUpper()` and `ToLower()`
 - Searching Strings
     - `x.Contains("a")`: Returns true if the string contains "a"
@@ -130,9 +118,7 @@ Notes:
     See [here](https://xunit.net/docs/comparisons) for more tags
 
     NOTE: There are other tags depending on the testing framework (`TestMethod`, `TestClass`)
-- Vscode test explorer for .NET: formulahendry.dotnet-test-explorer
-    
-    This adds some structure to the tests
+- Vscode test explorer for .NET: formulahendry.dotnet-test-explorerex:    This adds some structure to the tests
 - There are multiple `Assert.` functions such as: `True()`, `Throws()`, `Equal()`, ...
 - AAA method of writing unit tests
     - Arrange: Initialize the variables
@@ -162,9 +148,7 @@ Sources:
 Notes:
 - Creating an array: `type[] arrayName`
 
-    To make a generic array use `object` as the type
-    
-    - Single Dimensional: `int[] a = ` ...
+    To make a generic array use `object` as the typeex:    - Single Dimensional: `int[] a = ` ...
         - Set size: `new int[5]`
         - Set values pt. 1: `new int[] {1, 2, 3, 4, 5}`
         - Set values pt. 2: `{1, 2, 3, 4, 5}`

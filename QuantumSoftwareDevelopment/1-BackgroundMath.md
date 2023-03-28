@@ -68,9 +68,7 @@ Notes:
 
     - The number of columns in the first matrix must equal the number of rows in the second matrix
     - The position $(i, j)$ of the product matrix = $i^{th}$ row of the first matrix times $j^{th}$ column of the second matrix
-- A 2x2 matrix can represent a linear transformation of a plane
-    
-    If the transformation matrix is: $\begin{bmatrix}a & b \\ c & d\end{bmatrix}$ then the vector $\vec{v} = 3\hat{\textbf\i} - 2\hat{\textbf\j}$ will become $3 \begin{bmatrix}a \\ c\end{bmatrix} - 2 \begin{bmatrix}b \\ d\end{bmatrix}$.
+- A 2x2 matrix can represent a linear transformation of a planeex:    If the transformation matrix is: $\begin{bmatrix}a & b \\ c & d\end{bmatrix}$ then the vector $\vec{v} = 3\hat{\textbf\i} - 2\hat{\textbf\j}$ will become $3 \begin{bmatrix}a \\ c\end{bmatrix} - 2 \begin{bmatrix}b \\ d\end{bmatrix}$.
 
 # Bra-Ket and Tensor Notation
 
@@ -84,9 +82,7 @@ Notes:
 - A ket is analogous to a column vector
 
     $$\ket{r} = \begin{bmatrix}r_1 \\ r_2 \\ r_3 \end{bmatrix}$$
-- A bra is analogous to a row vector
-    
-    $$\bra{r} = \begin{bmatrix}r_1 & r_2 & r_3\end{bmatrix}$$
+- A bra is analogous to a row vectorex:    $$\bra{r} = \begin{bmatrix}r_1 & r_2 & r_3\end{bmatrix}$$
 - Special properties
     - The $r_i$ values are complex numbers
     - A bra or ket describes a state of a quantum system
